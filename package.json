@@ -1,0 +1,22 @@
+{
+    "publisher": "Mikhail-Zex",
+    "name": "jetblack",
+    "displayName": "JetBlack",
+    "description": "A truly dark (jet balck) theme for VS code.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.51.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "JetBlack for VSC",
+                "uiTheme": "vs-dark",
+                "path": "./themes/JetBlack for VSC-color-theme.json"
+            }
+        ]
+    }
+}
