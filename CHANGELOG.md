@@ -9,3 +9,8 @@
     - Changed the color of the status bar when not in a workspace to amber-ish.
     - Updated the readme.
     - Added a few display images.
+
+<br><br>
+
+- ## v0.0.3: README tweak (12.12.2020)
+    - Tweaked the image display a teeny tiny bit.

@@ -7,21 +7,12 @@ myself, here are the results.
 
 <br><br>
 
-# A few pictures for reference.
-- ## overall look of the editor:
-    <img src="VsJB1.jpg">
+# A few pictures for reference
 
-<br><br>
+| Overall look of the editor | Drop-Down Menus       |
+| -------------------------- | --------------------- |
+| <img src="VsJB1.jpg">      | <img src="VsJB2.jpg"> |
 
-- ## dropdown menus:
-    <img src="VsJB2.jpg">
-
-<br><br>
-
-- ## command palette and other text boxes
-    <img src="VsJB3.jpg">
-
-<br><br>
-
-- ## bottom bar outside a workspace (folder)
-<img src="VsJB4.jpg">
+| Text Boxes            | Status-bar outside a folder |
+| --------------------- | --------------------------- |
+| <img src="VsJB3.jpg"> | <img src="VsJB4.jpg">       |
