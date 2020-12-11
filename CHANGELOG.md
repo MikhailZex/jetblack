@@ -1,9 +1,11 @@
 # Change Log
 
-All notable changes to the "jetblack" extension will be documented in this file.
+- ## v0.0.1: Initial release (06.12.2020)
+    - Cooked up this theme referencing VS Code docs. It's built over the default High-contrast theme.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+<br><br>
 
-## [Unreleased]
-
-- Initial release
+- ## v0.0.2: Status bar color change (12.12.2020)
+    - Changed the color of the status bar when not in a workspace to amber-ish.
+    - Updated the readme.
+    - Added a few display images.

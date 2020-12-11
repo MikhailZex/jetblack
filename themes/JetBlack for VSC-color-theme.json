@@ -52,7 +52,7 @@
 
 		//Status bar
         "statusBar.background": "#003d75",
-        "statusBar.noFolderBackground": "#5e0000",
+        "statusBar.noFolderBackground": "#755200",
 	},
 	"tokenColors": [
 		{
